@@ -4,7 +4,7 @@ Welcome to Stephane Le Goff's collection of writings on digital electronics. The
 
 * [Binary representation of information](Digital Electronics - Part 1.pdf) 
 * [Boolean variables and logic gates](Digital Electronics - Part 2.pdf)
-* [Combinational circuits](xxx.pdf)
-* [Sequential circuits](xxx.pdf)
+* [Combinational circuits](Digital Electronics - Part 3.pdf)
+* [Sequential circuits](Digital Electronics - Part 4.pdf)
 * [Examples of digital circuits](xxx.pdf)
 * [Design of a general-purpose microprocessor](xxx.pdf)
