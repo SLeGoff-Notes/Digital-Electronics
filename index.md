@@ -12,7 +12,7 @@ Welcome to Stephane Le Goff's collection of writings on digital electronics. The
 * [Circuit example: four-bit adder using a single full adder](Digital Electronics - Part 8.pdf)
 * [Circuit example: a register file](Digital Electronics - Part 9.pdf)
 * [Circuit example: carry-lookahead adder](Digital Electronics - Part 10.pdf)
-* [Circuit example: to be continued](Digital Electronics - Part 11.pdf)
+* [Appendix: Simulations of 45-nm CMOS logic gates using LTspice](MOSFET_Models.pdf)
 * [Circuit example: to be continued](Digital Electronics - Part 12.pdf)
 * [Circuit example: to be continued](Digital Electronics - Part 13.pdf)
 * [Circuit example: to be continued](Digital Electronics - Part 14.pdf)
