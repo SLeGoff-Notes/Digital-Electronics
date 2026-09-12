@@ -10,7 +10,7 @@ Welcome to Stephane Le Goff's collection of writings on digital electronics. The
 * [Circuit example: a stopwatch](Digital Electronics - Part 6.pdf)
 * [Circuit example: a four-bit serial-to-parallel converter](Digital Electronics - Part 7.pdf)
 * [Circuit example: a four-bit adder using a single full adder](Digital Electronics - Part 8.pdf)
-* [Circuit example: to be continued](Digital Electronics - Part 9.pdf)
+* [Circuit example: a register file](Digital Electronics - Part 9.pdf)
 * [Circuit example: to be continued](Digital Electronics - Part 10.pdf)
 * [Circuit example: to be continued](Digital Electronics - Part 11.pdf)
 * [Circuit example: to be continued](Digital Electronics - Part 12.pdf)
